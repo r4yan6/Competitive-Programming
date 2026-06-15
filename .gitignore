@@ -1,0 +1,13 @@
+# Ignore everything in the repo
+*
+
+# Allow directories so Git can traverse the structure
+!*/
+
+# Allow specific file types
+!*.cpp
+!*.hpp
+!*.h
+!*.md
+!*.txt
+!.gitignore
