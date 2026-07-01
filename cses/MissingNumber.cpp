@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+#include <iostream>
 
 int main() {
 	ios_base::sync_with_stdio(false);
